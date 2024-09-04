@@ -2,8 +2,6 @@
 Squash Client Library: Java
 This client library reports exceptions to Squash, the Squarish exception reporting and management system.
 
-Documentation
-For an overview of the various components of Squash, see the website documentation at https://github.com/SquareSquash/web.
 
 Compatibility
 This library is compatible with J2SE 1.6 or newer. All dependencies are handled by Maven.
